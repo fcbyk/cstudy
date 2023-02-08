@@ -141,6 +141,60 @@ cpp_study/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/build
 .PHONY : cpp_study/fast
 
+class/Circle.obj: class/Circle.cpp.obj
+
+.PHONY : class/Circle.obj
+
+# target to build an object file
+class/Circle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.obj
+.PHONY : class/Circle.cpp.obj
+
+class/Circle.i: class/Circle.cpp.i
+
+.PHONY : class/Circle.i
+
+# target to preprocess a source file
+class/Circle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.i
+.PHONY : class/Circle.cpp.i
+
+class/Circle.s: class/Circle.cpp.s
+
+.PHONY : class/Circle.s
+
+# target to generate assembly for a file
+class/Circle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.s
+.PHONY : class/Circle.cpp.s
+
+class/Student.obj: class/Student.cpp.obj
+
+.PHONY : class/Student.obj
+
+# target to build an object file
+class/Student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.obj
+.PHONY : class/Student.cpp.obj
+
+class/Student.i: class/Student.cpp.i
+
+.PHONY : class/Student.i
+
+# target to preprocess a source file
+class/Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.i
+.PHONY : class/Student.cpp.i
+
+class/Student.s: class/Student.cpp.s
+
+.PHONY : class/Student.s
+
+# target to generate assembly for a file
+class/Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.s
+.PHONY : class/Student.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -177,6 +231,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_study
+	@echo ... class/Circle.obj
+	@echo ... class/Circle.i
+	@echo ... class/Circle.s
+	@echo ... class/Student.obj
+	@echo ... class/Student.i
+	@echo ... class/Student.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

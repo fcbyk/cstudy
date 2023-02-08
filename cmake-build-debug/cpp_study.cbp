@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/repositories/cpp-study/class/Circle.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/class/Student.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
 		<Unit filename="D:/repositories/cpp-study/main.cpp">
 			<Option target="cpp_study"/>
 		</Unit>

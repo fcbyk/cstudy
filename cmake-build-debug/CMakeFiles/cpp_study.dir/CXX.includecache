@@ -6,7 +6,17 @@
 
 #IncludeRegexTransform: 
 
+D:/repositories/cpp-study/class/Circle.cpp
+
+D:/repositories/cpp-study/class/Student.cpp
+string
+-
+
 D:/repositories/cpp-study/main.cpp
 iostream
 -
+class/Circle.cpp
+D:/repositories/cpp-study/class/Circle.cpp
+class/Student.cpp
+D:/repositories/cpp-study/class/Student.cpp
 

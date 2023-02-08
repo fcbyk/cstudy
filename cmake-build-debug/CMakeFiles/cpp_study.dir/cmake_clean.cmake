@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/cpp_study.dir/class/Circle.cpp.obj"
+  "CMakeFiles/cpp_study.dir/class/Student.cpp.obj"
   "CMakeFiles/cpp_study.dir/main.cpp.obj"
   "cpp_study.exe"
   "cpp_study.exe.manifest"
