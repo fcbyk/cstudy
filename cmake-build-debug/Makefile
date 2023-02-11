@@ -141,59 +141,86 @@ cpp_study/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/build
 .PHONY : cpp_study/fast
 
-class/Circle.obj: class/Circle.cpp.obj
+Object/Circle.obj: Object/Circle.cpp.obj
 
-.PHONY : class/Circle.obj
-
-# target to build an object file
-class/Circle.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.obj
-.PHONY : class/Circle.cpp.obj
-
-class/Circle.i: class/Circle.cpp.i
-
-.PHONY : class/Circle.i
-
-# target to preprocess a source file
-class/Circle.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.i
-.PHONY : class/Circle.cpp.i
-
-class/Circle.s: class/Circle.cpp.s
-
-.PHONY : class/Circle.s
-
-# target to generate assembly for a file
-class/Circle.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Circle.cpp.s
-.PHONY : class/Circle.cpp.s
-
-class/Student.obj: class/Student.cpp.obj
-
-.PHONY : class/Student.obj
+.PHONY : Object/Circle.obj
 
 # target to build an object file
-class/Student.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.obj
-.PHONY : class/Student.cpp.obj
+Object/Circle.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Circle.cpp.obj
+.PHONY : Object/Circle.cpp.obj
 
-class/Student.i: class/Student.cpp.i
+Object/Circle.i: Object/Circle.cpp.i
 
-.PHONY : class/Student.i
+.PHONY : Object/Circle.i
 
 # target to preprocess a source file
-class/Student.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.i
-.PHONY : class/Student.cpp.i
+Object/Circle.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Circle.cpp.i
+.PHONY : Object/Circle.cpp.i
 
-class/Student.s: class/Student.cpp.s
+Object/Circle.s: Object/Circle.cpp.s
 
-.PHONY : class/Student.s
+.PHONY : Object/Circle.s
 
 # target to generate assembly for a file
-class/Student.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/class/Student.cpp.s
-.PHONY : class/Student.cpp.s
+Object/Circle.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Circle.cpp.s
+.PHONY : Object/Circle.cpp.s
+
+Object/Student.obj: Object/Student.cpp.obj
+
+.PHONY : Object/Student.obj
+
+# target to build an object file
+Object/Student.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Student.cpp.obj
+.PHONY : Object/Student.cpp.obj
+
+Object/Student.i: Object/Student.cpp.i
+
+.PHONY : Object/Student.i
+
+# target to preprocess a source file
+Object/Student.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Student.cpp.i
+.PHONY : Object/Student.cpp.i
+
+Object/Student.s: Object/Student.cpp.s
+
+.PHONY : Object/Student.s
+
+# target to generate assembly for a file
+Object/Student.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Student.cpp.s
+.PHONY : Object/Student.cpp.s
+
+Program/AddressBook.obj: Program/AddressBook.cpp.obj
+
+.PHONY : Program/AddressBook.obj
+
+# target to build an object file
+Program/AddressBook.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj
+.PHONY : Program/AddressBook.cpp.obj
+
+Program/AddressBook.i: Program/AddressBook.cpp.i
+
+.PHONY : Program/AddressBook.i
+
+# target to preprocess a source file
+Program/AddressBook.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.i
+.PHONY : Program/AddressBook.cpp.i
+
+Program/AddressBook.s: Program/AddressBook.cpp.s
+
+.PHONY : Program/AddressBook.s
+
+# target to generate assembly for a file
+Program/AddressBook.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.s
+.PHONY : Program/AddressBook.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -231,12 +258,15 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_study
-	@echo ... class/Circle.obj
-	@echo ... class/Circle.i
-	@echo ... class/Circle.s
-	@echo ... class/Student.obj
-	@echo ... class/Student.i
-	@echo ... class/Student.s
+	@echo ... Object/Circle.obj
+	@echo ... Object/Circle.i
+	@echo ... Object/Circle.s
+	@echo ... Object/Student.obj
+	@echo ... Object/Student.i
+	@echo ... Object/Student.s
+	@echo ... Program/AddressBook.obj
+	@echo ... Program/AddressBook.i
+	@echo ... Program/AddressBook.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

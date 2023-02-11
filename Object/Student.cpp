@@ -10,7 +10,6 @@ private:
 
 public:
     Student(int a){
-    //这里clion报红，但能正常运行，不明白
         this->age = a;
     }
 
