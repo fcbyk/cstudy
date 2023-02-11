@@ -6,29 +6,45 @@
 
 #IncludeRegexTransform: 
 
-D:/repositories/cpp-study/Object/Circle.cpp
-
-D:/repositories/cpp-study/Object/Student.cpp
-string
+D:/repositories/cpp-study/Object/Boss.cpp
+iostream
 -
+Worker.h
+D:/repositories/cpp-study/Object/Worker.h
 
-D:/repositories/cpp-study/Program/AddressBook.cpp
-AddressBook.h
-D:/repositories/cpp-study/Program/AddressBook.h
+D:/repositories/cpp-study/Object/Employee.cpp
+iostream
+-
+Worker.h
+D:/repositories/cpp-study/Object/Worker.h
 
-D:/repositories/cpp-study/Program/AddressBook.h
+D:/repositories/cpp-study/Object/Manager.cpp
+iostream
+-
+Worker.h
+D:/repositories/cpp-study/Object/Worker.h
+
+D:/repositories/cpp-study/Object/Worker.h
 iostream
 -
 string
 -
 
-D:/repositories/cpp-study/main.cpp
+D:/repositories/cpp-study/Program/WorkerManager.cpp
+WorkerManager.h
+D:/repositories/cpp-study/Program/WorkerManager.h
+
+D:/repositories/cpp-study/Program/WorkerManager.h
 iostream
 -
-Object/Circle.cpp
-D:/repositories/cpp-study/Object/Circle.cpp
-Object/Student.cpp
-D:/repositories/cpp-study/Object/Student.cpp
-Program/AddressBook.h
-D:/repositories/cpp-study/Program/AddressBook.h
+fstream
+-
+../Object/Worker.h
+D:/repositories/cpp-study/Object/Worker.h
+../Object/Employee.cpp
+D:/repositories/cpp-study/Object/Employee.cpp
+../Object/Manager.cpp
+D:/repositories/cpp-study/Object/Manager.cpp
+../Object/Boss.cpp
+D:/repositories/cpp-study/Object/Boss.cpp
 

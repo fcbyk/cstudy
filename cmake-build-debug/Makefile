@@ -141,6 +141,33 @@ cpp_study/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/build
 .PHONY : cpp_study/fast
 
+Object/Boss.obj: Object/Boss.cpp.obj
+
+.PHONY : Object/Boss.obj
+
+# target to build an object file
+Object/Boss.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj
+.PHONY : Object/Boss.cpp.obj
+
+Object/Boss.i: Object/Boss.cpp.i
+
+.PHONY : Object/Boss.i
+
+# target to preprocess a source file
+Object/Boss.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Boss.cpp.i
+.PHONY : Object/Boss.cpp.i
+
+Object/Boss.s: Object/Boss.cpp.s
+
+.PHONY : Object/Boss.s
+
+# target to generate assembly for a file
+Object/Boss.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Boss.cpp.s
+.PHONY : Object/Boss.cpp.s
+
 Object/Circle.obj: Object/Circle.cpp.obj
 
 .PHONY : Object/Circle.obj
@@ -167,6 +194,60 @@ Object/Circle.s: Object/Circle.cpp.s
 Object/Circle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Circle.cpp.s
 .PHONY : Object/Circle.cpp.s
+
+Object/Employee.obj: Object/Employee.cpp.obj
+
+.PHONY : Object/Employee.obj
+
+# target to build an object file
+Object/Employee.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj
+.PHONY : Object/Employee.cpp.obj
+
+Object/Employee.i: Object/Employee.cpp.i
+
+.PHONY : Object/Employee.i
+
+# target to preprocess a source file
+Object/Employee.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Employee.cpp.i
+.PHONY : Object/Employee.cpp.i
+
+Object/Employee.s: Object/Employee.cpp.s
+
+.PHONY : Object/Employee.s
+
+# target to generate assembly for a file
+Object/Employee.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Employee.cpp.s
+.PHONY : Object/Employee.cpp.s
+
+Object/Manager.obj: Object/Manager.cpp.obj
+
+.PHONY : Object/Manager.obj
+
+# target to build an object file
+Object/Manager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj
+.PHONY : Object/Manager.cpp.obj
+
+Object/Manager.i: Object/Manager.cpp.i
+
+.PHONY : Object/Manager.i
+
+# target to preprocess a source file
+Object/Manager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Manager.cpp.i
+.PHONY : Object/Manager.cpp.i
+
+Object/Manager.s: Object/Manager.cpp.s
+
+.PHONY : Object/Manager.s
+
+# target to generate assembly for a file
+Object/Manager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Manager.cpp.s
+.PHONY : Object/Manager.cpp.s
 
 Object/Student.obj: Object/Student.cpp.obj
 
@@ -222,6 +303,33 @@ Program/AddressBook.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.s
 .PHONY : Program/AddressBook.cpp.s
 
+Program/WorkerManager.obj: Program/WorkerManager.cpp.obj
+
+.PHONY : Program/WorkerManager.obj
+
+# target to build an object file
+Program/WorkerManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj
+.PHONY : Program/WorkerManager.cpp.obj
+
+Program/WorkerManager.i: Program/WorkerManager.cpp.i
+
+.PHONY : Program/WorkerManager.i
+
+# target to preprocess a source file
+Program/WorkerManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.i
+.PHONY : Program/WorkerManager.cpp.i
+
+Program/WorkerManager.s: Program/WorkerManager.cpp.s
+
+.PHONY : Program/WorkerManager.s
+
+# target to generate assembly for a file
+Program/WorkerManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.s
+.PHONY : Program/WorkerManager.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -258,15 +366,27 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... cpp_study
+	@echo ... Object/Boss.obj
+	@echo ... Object/Boss.i
+	@echo ... Object/Boss.s
 	@echo ... Object/Circle.obj
 	@echo ... Object/Circle.i
 	@echo ... Object/Circle.s
+	@echo ... Object/Employee.obj
+	@echo ... Object/Employee.i
+	@echo ... Object/Employee.s
+	@echo ... Object/Manager.obj
+	@echo ... Object/Manager.i
+	@echo ... Object/Manager.s
 	@echo ... Object/Student.obj
 	@echo ... Object/Student.i
 	@echo ... Object/Student.s
 	@echo ... Program/AddressBook.obj
 	@echo ... Program/AddressBook.i
 	@echo ... Program/AddressBook.s
+	@echo ... Program/WorkerManager.obj
+	@echo ... Program/WorkerManager.i
+	@echo ... Program/WorkerManager.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
