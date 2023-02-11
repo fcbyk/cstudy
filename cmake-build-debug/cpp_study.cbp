@@ -83,31 +83,13 @@
 		<Unit filename="D:/repositories/cpp-study/Const/computerRoomFile.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Boss.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Circle.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/ComputerManager.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/ComputerManager.h">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/ComputerRoom.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Employee.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/Identity.h">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Manager.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/OrderFile.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/OrderFile.h">
@@ -116,13 +98,7 @@
 		<Unit filename="D:/repositories/cpp-study/Object/Speaker.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Student.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/Student.h">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Object/Teacher.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/Teacher.h">
@@ -131,28 +107,52 @@
 		<Unit filename="D:/repositories/cpp-study/Object/Worker.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Program/AddressBook.cpp">
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Boss.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Circle.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/ComputerManager.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Employee.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Manager.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/OrderFile.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Student.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/cpp/Teacher.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Program/AddressBook.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Program/ComputerRoomReservation.cpp">
-			<Option target="cpp_study"/>
-		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Program/ComputerRoomReservation.h">
-			<Option target="cpp_study"/>
-		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Program/SpeechManager.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Program/SpeechManager.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Program/WorkerManager.cpp">
+		<Unit filename="D:/repositories/cpp-study/Program/WorkerManager.h">
 			<Option target="cpp_study"/>
 		</Unit>
-		<Unit filename="D:/repositories/cpp-study/Program/WorkerManager.h">
+		<Unit filename="D:/repositories/cpp-study/Program/cpp/AddressBook.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Program/cpp/ComputerRoomReservation.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Program/cpp/SpeechManager.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Program/cpp/WorkerManager.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/main.cpp">

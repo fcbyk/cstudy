@@ -2,9 +2,9 @@
 #include<iostream>
 #include <fstream>
 #include "../Object/Worker.h"
-#include "../Object/Employee.cpp"
-#include "../Object/Manager.cpp"
-#include "../Object/Boss.cpp"
+#include "../Object/cpp/Employee.cpp"
+#include "../Object/cpp/Manager.cpp"
+#include "../Object/cpp/Boss.cpp"
 #define  FILENAME "empFile.txt"
 using namespace std;
 
