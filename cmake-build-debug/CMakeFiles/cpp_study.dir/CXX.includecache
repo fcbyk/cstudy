@@ -12,6 +12,8 @@ iostream
 Worker.h
 D:/repositories/cpp-study/Object/Worker.h
 
+D:/repositories/cpp-study/Object/Circle.cpp
+
 D:/repositories/cpp-study/Object/Employee.cpp
 iostream
 -
@@ -24,15 +26,47 @@ iostream
 Worker.h
 D:/repositories/cpp-study/Object/Worker.h
 
+D:/repositories/cpp-study/Object/Speaker.h
+iostream
+-
+
+D:/repositories/cpp-study/Object/Student.cpp
+string
+-
+
 D:/repositories/cpp-study/Object/Worker.h
 iostream
 -
 string
 -
 
-D:/repositories/cpp-study/Program/WorkerManager.cpp
-WorkerManager.h
-D:/repositories/cpp-study/Program/WorkerManager.h
+D:/repositories/cpp-study/Program/AddressBook.h
+iostream
+-
+string
+-
+
+D:/repositories/cpp-study/Program/SpeechManager.cpp
+SpeechManager.h
+D:/repositories/cpp-study/Program/SpeechManager.h
+
+D:/repositories/cpp-study/Program/SpeechManager.h
+iostream
+-
+vector
+-
+map
+-
+algorithm
+-
+deque
+-
+numeric
+-
+fstream
+-
+../Object/Speaker.h
+D:/repositories/cpp-study/Object/Speaker.h
 
 D:/repositories/cpp-study/Program/WorkerManager.h
 iostream
@@ -47,4 +81,16 @@ D:/repositories/cpp-study/Object/Employee.cpp
 D:/repositories/cpp-study/Object/Manager.cpp
 ../Object/Boss.cpp
 D:/repositories/cpp-study/Object/Boss.cpp
+
+D:/repositories/cpp-study/main.cpp
+Object/Circle.cpp
+D:/repositories/cpp-study/Object/Circle.cpp
+Object/Student.cpp
+D:/repositories/cpp-study/Object/Student.cpp
+Program/AddressBook.h
+D:/repositories/cpp-study/Program/AddressBook.h
+Program/WorkerManager.h
+D:/repositories/cpp-study/Program/WorkerManager.h
+Program/SpeechManager.h
+D:/repositories/cpp-study/Program/SpeechManager.h
 

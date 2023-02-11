@@ -5,6 +5,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj"
   "CMakeFiles/cpp_study.dir/Object/Student.cpp.obj"
   "CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj"
+  "CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj"
   "CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj"
   "CMakeFiles/cpp_study.dir/main.cpp.obj"
   "cpp_study.exe"

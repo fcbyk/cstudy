@@ -2,9 +2,10 @@
 #include "Object/Student.cpp"
 #include "Program/AddressBook.h"
 #include "Program/WorkerManager.h"
+#include "Program/SpeechManager.h"
 using namespace std;
 
 int main() {
-    WorkerManager wm;
-    wm.WorkerManagerLaunch();
+    SpeechManager sm;
+    sm.SpeechManagerLaunch();
 }

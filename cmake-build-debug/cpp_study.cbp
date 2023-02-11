@@ -92,6 +92,9 @@
 		<Unit filename="D:/repositories/cpp-study/Object/Manager.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Object/Speaker.h">
+			<Option target="cpp_study"/>
+		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Object/Student.cpp">
 			<Option target="cpp_study"/>
 		</Unit>
@@ -102,6 +105,12 @@
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Program/AddressBook.h">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Program/SpeechManager.cpp">
+			<Option target="cpp_study"/>
+		</Unit>
+		<Unit filename="D:/repositories/cpp-study/Program/SpeechManager.h">
 			<Option target="cpp_study"/>
 		</Unit>
 		<Unit filename="D:/repositories/cpp-study/Program/WorkerManager.cpp">

@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "D:/repositories/cpp-study/Object/Manager.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj"
   "D:/repositories/cpp-study/Object/Student.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/Object/Student.cpp.obj"
   "D:/repositories/cpp-study/Program/AddressBook.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj"
+  "D:/repositories/cpp-study/Program/SpeechManager.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj"
   "D:/repositories/cpp-study/Program/WorkerManager.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj"
   "D:/repositories/cpp-study/main.cpp" "D:/repositories/cpp-study/cmake-build-debug/CMakeFiles/cpp_study.dir/main.cpp.obj"
   )

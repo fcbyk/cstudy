@@ -303,6 +303,33 @@ Program/AddressBook.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.s
 .PHONY : Program/AddressBook.cpp.s
 
+Program/SpeechManager.obj: Program/SpeechManager.cpp.obj
+
+.PHONY : Program/SpeechManager.obj
+
+# target to build an object file
+Program/SpeechManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj
+.PHONY : Program/SpeechManager.cpp.obj
+
+Program/SpeechManager.i: Program/SpeechManager.cpp.i
+
+.PHONY : Program/SpeechManager.i
+
+# target to preprocess a source file
+Program/SpeechManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.i
+.PHONY : Program/SpeechManager.cpp.i
+
+Program/SpeechManager.s: Program/SpeechManager.cpp.s
+
+.PHONY : Program/SpeechManager.s
+
+# target to generate assembly for a file
+Program/SpeechManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.s
+.PHONY : Program/SpeechManager.cpp.s
+
 Program/WorkerManager.obj: Program/WorkerManager.cpp.obj
 
 .PHONY : Program/WorkerManager.obj
@@ -384,6 +411,9 @@ help:
 	@echo ... Program/AddressBook.obj
 	@echo ... Program/AddressBook.i
 	@echo ... Program/AddressBook.s
+	@echo ... Program/SpeechManager.obj
+	@echo ... Program/SpeechManager.i
+	@echo ... Program/SpeechManager.s
 	@echo ... Program/WorkerManager.obj
 	@echo ... Program/WorkerManager.i
 	@echo ... Program/WorkerManager.s

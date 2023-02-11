@@ -17,6 +17,10 @@ CMakeFiles/cpp_study.dir/Object/Student.cpp.obj
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj
  D:/repositories/cpp-study/Program/AddressBook.cpp
  D:/repositories/cpp-study/Program/AddressBook.h
+CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj
+ D:/repositories/cpp-study/Object/Speaker.h
+ D:/repositories/cpp-study/Program/SpeechManager.cpp
+ D:/repositories/cpp-study/Program/SpeechManager.h
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj
  D:/repositories/cpp-study/Object/Boss.cpp
  D:/repositories/cpp-study/Object/Employee.cpp
@@ -29,8 +33,10 @@ CMakeFiles/cpp_study.dir/main.cpp.obj
  D:/repositories/cpp-study/Object/Circle.cpp
  D:/repositories/cpp-study/Object/Employee.cpp
  D:/repositories/cpp-study/Object/Manager.cpp
+ D:/repositories/cpp-study/Object/Speaker.h
  D:/repositories/cpp-study/Object/Student.cpp
  D:/repositories/cpp-study/Object/Worker.h
  D:/repositories/cpp-study/Program/AddressBook.h
+ D:/repositories/cpp-study/Program/SpeechManager.h
  D:/repositories/cpp-study/Program/WorkerManager.h
  D:/repositories/cpp-study/main.cpp
