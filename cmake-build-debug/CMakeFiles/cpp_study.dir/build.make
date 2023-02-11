@@ -101,22 +101,9 @@ CMakeFiles/cpp_study.dir/Object/Circle.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/Circle.cpp.s"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\Circle.cpp -o CMakeFiles\cpp_study.dir\Object\Circle.cpp.s
 
-CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
-CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/Student.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_study.dir/Object/Student.cpp.obj"
-	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Student.cpp.obj -c D:\repositories\cpp-study\Object\Student.cpp
-
-CMakeFiles/cpp_study.dir/Object/Student.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Object/Student.cpp.i"
-	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Object\Student.cpp > CMakeFiles\cpp_study.dir\Object\Student.cpp.i
-
-CMakeFiles/cpp_study.dir/Object/Student.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/Student.cpp.s"
-	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\Student.cpp -o CMakeFiles\cpp_study.dir\Object\Student.cpp.s
-
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj: ../Program/AddressBook.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Program\AddressBook.cpp.obj -c D:\repositories\cpp-study\Program\AddressBook.cpp
 
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.i: cmake_force
@@ -129,7 +116,7 @@ CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.s: cmake_force
 
 CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj: ../Object/Manager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Manager.cpp.obj -c D:\repositories\cpp-study\Object\Manager.cpp
 
 CMakeFiles/cpp_study.dir/Object/Manager.cpp.i: cmake_force
@@ -142,7 +129,7 @@ CMakeFiles/cpp_study.dir/Object/Manager.cpp.s: cmake_force
 
 CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj: ../Object/Employee.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Employee.cpp.obj -c D:\repositories\cpp-study\Object\Employee.cpp
 
 CMakeFiles/cpp_study.dir/Object/Employee.cpp.i: cmake_force
@@ -155,7 +142,7 @@ CMakeFiles/cpp_study.dir/Object/Employee.cpp.s: cmake_force
 
 CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj: ../Object/Boss.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Boss.cpp.obj -c D:\repositories\cpp-study\Object\Boss.cpp
 
 CMakeFiles/cpp_study.dir/Object/Boss.cpp.i: cmake_force
@@ -168,7 +155,7 @@ CMakeFiles/cpp_study.dir/Object/Boss.cpp.s: cmake_force
 
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj: ../Program/WorkerManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Program\WorkerManager.cpp.obj -c D:\repositories\cpp-study\Program\WorkerManager.cpp
 
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.i: cmake_force
@@ -181,7 +168,7 @@ CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.s: cmake_force
 
 CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
 CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj: ../Program/SpeechManager.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Program\SpeechManager.cpp.obj -c D:\repositories\cpp-study\Program\SpeechManager.cpp
 
 CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.i: cmake_force
@@ -192,35 +179,108 @@ CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.s"
 	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Program\SpeechManager.cpp -o CMakeFiles\cpp_study.dir\Program\SpeechManager.cpp.s
 
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/ComputerManager.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\ComputerManager.cpp.obj -c D:\repositories\cpp-study\Object\ComputerManager.cpp
+
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.i"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Object\ComputerManager.cpp > CMakeFiles\cpp_study.dir\Object\ComputerManager.cpp.i
+
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.s"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\ComputerManager.cpp -o CMakeFiles\cpp_study.dir\Object\ComputerManager.cpp.s
+
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/Student.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/cpp_study.dir/Object/Student.cpp.obj"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Student.cpp.obj -c D:\repositories\cpp-study\Object\Student.cpp
+
+CMakeFiles/cpp_study.dir/Object/Student.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Object/Student.cpp.i"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Object\Student.cpp > CMakeFiles\cpp_study.dir\Object\Student.cpp.i
+
+CMakeFiles/cpp_study.dir/Object/Student.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/Student.cpp.s"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\Student.cpp -o CMakeFiles\cpp_study.dir\Object\Student.cpp.s
+
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj: ../Object/OrderFile.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\OrderFile.cpp.obj -c D:\repositories\cpp-study\Object\OrderFile.cpp
+
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.i"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Object\OrderFile.cpp > CMakeFiles\cpp_study.dir\Object\OrderFile.cpp.i
+
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.s"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\OrderFile.cpp -o CMakeFiles\cpp_study.dir\Object\OrderFile.cpp.s
+
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Object/Teacher.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Object\Teacher.cpp.obj -c D:\repositories\cpp-study\Object\Teacher.cpp
+
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Object/Teacher.cpp.i"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Object\Teacher.cpp > CMakeFiles\cpp_study.dir\Object\Teacher.cpp.i
+
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Object/Teacher.cpp.s"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Object\Teacher.cpp -o CMakeFiles\cpp_study.dir\Object\Teacher.cpp.s
+
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: CMakeFiles/cpp_study.dir/flags.make
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Program/ComputerRoomReservation.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_study.dir\Program\ComputerRoomReservation.cpp.obj -c D:\repositories\cpp-study\Program\ComputerRoomReservation.cpp
+
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.i"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\repositories\cpp-study\Program\ComputerRoomReservation.cpp > CMakeFiles\cpp_study.dir\Program\ComputerRoomReservation.cpp.i
+
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.s"
+	D:\Dev\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\repositories\cpp-study\Program\ComputerRoomReservation.cpp -o CMakeFiles\cpp_study.dir\Program\ComputerRoomReservation.cpp.s
+
 # Object files for target cpp_study
 cpp_study_OBJECTS = \
 "CMakeFiles/cpp_study.dir/main.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Object/Circle.cpp.obj" \
-"CMakeFiles/cpp_study.dir/Object/Student.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj" \
 "CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj" \
-"CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj"
+"CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj" \
+"CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj" \
+"CMakeFiles/cpp_study.dir/Object/Student.cpp.obj" \
+"CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj" \
+"CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj" \
+"CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj"
 
 # External object files for target cpp_study
 cpp_study_EXTERNAL_OBJECTS =
 
 cpp_study.exe: CMakeFiles/cpp_study.dir/main.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Circle.cpp.obj
-cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Student.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj
+cpp_study.exe: CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj
+cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Student.cpp.obj
+cpp_study.exe: CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj
+cpp_study.exe: CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj
+cpp_study.exe: CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj
 cpp_study.exe: CMakeFiles/cpp_study.dir/build.make
 cpp_study.exe: CMakeFiles/cpp_study.dir/linklibs.rsp
 cpp_study.exe: CMakeFiles/cpp_study.dir/objects1.rsp
 cpp_study.exe: CMakeFiles/cpp_study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable cpp_study.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=D:\repositories\cpp-study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Linking CXX executable cpp_study.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp_study.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

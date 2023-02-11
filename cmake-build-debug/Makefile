@@ -195,6 +195,33 @@ Object/Circle.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Circle.cpp.s
 .PHONY : Object/Circle.cpp.s
 
+Object/ComputerManager.obj: Object/ComputerManager.cpp.obj
+
+.PHONY : Object/ComputerManager.obj
+
+# target to build an object file
+Object/ComputerManager.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj
+.PHONY : Object/ComputerManager.cpp.obj
+
+Object/ComputerManager.i: Object/ComputerManager.cpp.i
+
+.PHONY : Object/ComputerManager.i
+
+# target to preprocess a source file
+Object/ComputerManager.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.i
+.PHONY : Object/ComputerManager.cpp.i
+
+Object/ComputerManager.s: Object/ComputerManager.cpp.s
+
+.PHONY : Object/ComputerManager.s
+
+# target to generate assembly for a file
+Object/ComputerManager.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.s
+.PHONY : Object/ComputerManager.cpp.s
+
 Object/Employee.obj: Object/Employee.cpp.obj
 
 .PHONY : Object/Employee.obj
@@ -249,6 +276,33 @@ Object/Manager.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Manager.cpp.s
 .PHONY : Object/Manager.cpp.s
 
+Object/OrderFile.obj: Object/OrderFile.cpp.obj
+
+.PHONY : Object/OrderFile.obj
+
+# target to build an object file
+Object/OrderFile.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj
+.PHONY : Object/OrderFile.cpp.obj
+
+Object/OrderFile.i: Object/OrderFile.cpp.i
+
+.PHONY : Object/OrderFile.i
+
+# target to preprocess a source file
+Object/OrderFile.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.i
+.PHONY : Object/OrderFile.cpp.i
+
+Object/OrderFile.s: Object/OrderFile.cpp.s
+
+.PHONY : Object/OrderFile.s
+
+# target to generate assembly for a file
+Object/OrderFile.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.s
+.PHONY : Object/OrderFile.cpp.s
+
 Object/Student.obj: Object/Student.cpp.obj
 
 .PHONY : Object/Student.obj
@@ -276,6 +330,33 @@ Object/Student.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Student.cpp.s
 .PHONY : Object/Student.cpp.s
 
+Object/Teacher.obj: Object/Teacher.cpp.obj
+
+.PHONY : Object/Teacher.obj
+
+# target to build an object file
+Object/Teacher.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj
+.PHONY : Object/Teacher.cpp.obj
+
+Object/Teacher.i: Object/Teacher.cpp.i
+
+.PHONY : Object/Teacher.i
+
+# target to preprocess a source file
+Object/Teacher.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Teacher.cpp.i
+.PHONY : Object/Teacher.cpp.i
+
+Object/Teacher.s: Object/Teacher.cpp.s
+
+.PHONY : Object/Teacher.s
+
+# target to generate assembly for a file
+Object/Teacher.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Object/Teacher.cpp.s
+.PHONY : Object/Teacher.cpp.s
+
 Program/AddressBook.obj: Program/AddressBook.cpp.obj
 
 .PHONY : Program/AddressBook.obj
@@ -302,6 +383,33 @@ Program/AddressBook.s: Program/AddressBook.cpp.s
 Program/AddressBook.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.s
 .PHONY : Program/AddressBook.cpp.s
+
+Program/ComputerRoomReservation.obj: Program/ComputerRoomReservation.cpp.obj
+
+.PHONY : Program/ComputerRoomReservation.obj
+
+# target to build an object file
+Program/ComputerRoomReservation.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj
+.PHONY : Program/ComputerRoomReservation.cpp.obj
+
+Program/ComputerRoomReservation.i: Program/ComputerRoomReservation.cpp.i
+
+.PHONY : Program/ComputerRoomReservation.i
+
+# target to preprocess a source file
+Program/ComputerRoomReservation.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.i
+.PHONY : Program/ComputerRoomReservation.cpp.i
+
+Program/ComputerRoomReservation.s: Program/ComputerRoomReservation.cpp.s
+
+.PHONY : Program/ComputerRoomReservation.s
+
+# target to generate assembly for a file
+Program/ComputerRoomReservation.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_study.dir\build.make CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.s
+.PHONY : Program/ComputerRoomReservation.cpp.s
 
 Program/SpeechManager.obj: Program/SpeechManager.cpp.obj
 
@@ -399,18 +507,30 @@ help:
 	@echo ... Object/Circle.obj
 	@echo ... Object/Circle.i
 	@echo ... Object/Circle.s
+	@echo ... Object/ComputerManager.obj
+	@echo ... Object/ComputerManager.i
+	@echo ... Object/ComputerManager.s
 	@echo ... Object/Employee.obj
 	@echo ... Object/Employee.i
 	@echo ... Object/Employee.s
 	@echo ... Object/Manager.obj
 	@echo ... Object/Manager.i
 	@echo ... Object/Manager.s
+	@echo ... Object/OrderFile.obj
+	@echo ... Object/OrderFile.i
+	@echo ... Object/OrderFile.s
 	@echo ... Object/Student.obj
 	@echo ... Object/Student.i
 	@echo ... Object/Student.s
+	@echo ... Object/Teacher.obj
+	@echo ... Object/Teacher.i
+	@echo ... Object/Teacher.s
 	@echo ... Program/AddressBook.obj
 	@echo ... Program/AddressBook.i
 	@echo ... Program/AddressBook.s
+	@echo ... Program/ComputerRoomReservation.obj
+	@echo ... Program/ComputerRoomReservation.i
+	@echo ... Program/ComputerRoomReservation.s
 	@echo ... Program/SpeechManager.obj
 	@echo ... Program/SpeechManager.i
 	@echo ... Program/SpeechManager.s

@@ -6,16 +6,50 @@ CMakeFiles/cpp_study.dir/Object/Boss.cpp.obj: ../Object/Worker.h
 
 CMakeFiles/cpp_study.dir/Object/Circle.cpp.obj: ../Object/Circle.cpp
 
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Const/computerRoomFile.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/ComputerManager.cpp
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/ComputerManager.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/ComputerRoom.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/Identity.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/OrderFile.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/Student.h
+CMakeFiles/cpp_study.dir/Object/ComputerManager.cpp.obj: ../Object/Teacher.h
+
 CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj: ../Object/Employee.cpp
 CMakeFiles/cpp_study.dir/Object/Employee.cpp.obj: ../Object/Worker.h
 
 CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj: ../Object/Manager.cpp
 CMakeFiles/cpp_study.dir/Object/Manager.cpp.obj: ../Object/Worker.h
 
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj: ../Const/computerRoomFile.h
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj: ../Object/OrderFile.cpp
+CMakeFiles/cpp_study.dir/Object/OrderFile.cpp.obj: ../Object/OrderFile.h
+
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Const/computerRoomFile.h
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/ComputerRoom.h
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/Identity.h
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/OrderFile.h
 CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/Student.cpp
+CMakeFiles/cpp_study.dir/Object/Student.cpp.obj: ../Object/Student.h
+
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Const/computerRoomFile.h
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Object/Identity.h
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Object/OrderFile.h
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Object/Teacher.cpp
+CMakeFiles/cpp_study.dir/Object/Teacher.cpp.obj: ../Object/Teacher.h
 
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj: ../Program/AddressBook.cpp
 CMakeFiles/cpp_study.dir/Program/AddressBook.cpp.obj: ../Program/AddressBook.h
+
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Const/computerRoomFile.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/ComputerManager.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/ComputerRoom.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/Identity.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/OrderFile.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/Student.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Object/Teacher.h
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Program/ComputerRoomReservation.cpp
+CMakeFiles/cpp_study.dir/Program/ComputerRoomReservation.cpp.obj: ../Program/ComputerRoomReservation.h
 
 CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj: ../Object/Speaker.h
 CMakeFiles/cpp_study.dir/Program/SpeechManager.cpp.obj: ../Program/SpeechManager.cpp
@@ -28,15 +62,15 @@ CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj: ../Object/Worker.h
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj: ../Program/WorkerManager.cpp
 CMakeFiles/cpp_study.dir/Program/WorkerManager.cpp.obj: ../Program/WorkerManager.h
 
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Boss.cpp
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Const/computerRoomFile.h
 CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Circle.cpp
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Employee.cpp
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Manager.cpp
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Speaker.h
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Student.cpp
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Worker.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/ComputerManager.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/ComputerRoom.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Identity.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/OrderFile.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Student.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Object/Teacher.h
 CMakeFiles/cpp_study.dir/main.cpp.obj: ../Program/AddressBook.h
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Program/SpeechManager.h
-CMakeFiles/cpp_study.dir/main.cpp.obj: ../Program/WorkerManager.h
+CMakeFiles/cpp_study.dir/main.cpp.obj: ../Program/ComputerRoomReservation.h
 CMakeFiles/cpp_study.dir/main.cpp.obj: ../main.cpp
 
